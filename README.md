@@ -33,10 +33,22 @@
        
 - 3D histology
     1) method: https://github.com/WeisiX/ITAS3D (data potentially available)
+    2) method: https://www.cell.com/cell/abstract/S0092-8674(24)00351-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424003519%3Fshowall%3Dtrue (data potentially available)
+    3) method: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10500590/ (data potentially available)
+    4) 3D melanoma https://www.ejcancer.com/article/S0959-8049(21)01126-6/fulltext (data potentially available)
+  
+- 3d  hierarchical phase-contrast tomography (full organ at cell resolution)
+    1) data: brain and lung high-resolution https://human-organ-atlas.esrf.eu/ 
+    1) article: https://www.nature.com/articles/s41592-021-01317-x
        
 - 3D histology (prostate cancer)
     1) data: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=145754446
     2) article https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10926776/
+
+- 3D histology (different cancers)
+    1) data: https://data.humantumoratlas.org/ (different types of cancer, several technologies)
+    2) https://github.com/labsyspharm/CRC_atlas_2022 (details inside)
+    3) https://www.synapse.org/#!Synapse:syn18434611/wiki/597418
        
 - 3D retinal vessels
     1) data https://huggingface.co/datasets/Hemaxi/3DVesselSegmentation
