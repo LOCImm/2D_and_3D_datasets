@@ -17,3 +17,4 @@
 - 3D histology (prostate cancer): data https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=145754446; article https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10926776/
 - 3D retinal vessels: article https://www.ahajournals.org/doi/10.1161/ATVBAHA.124.320672; data https://huggingface.co/datasets/Hemaxi/3DVesselSegmentation
 - 3D virtual histopathology of cardiac tissue from Covid-19 patients based on phase-contrast X-ray tomography; data: https://zenodo.org/records/5658380; article: https://elifesciences.org/articles/71359
+- 3D image mass cytometry; data: https://portal.hubmapconsortium.org/ (inside there are 2D spatial transcriptomics, 2D spatial proteomics and other types of data).
