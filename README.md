@@ -21,6 +21,7 @@
 - 3D brain MRI + histology
     1) https://rdr.ucl.ac.uk/articles/dataset/Registered_histology_MRI_and_manual_annotations_of_over_300_brain_regions_in_5_human_hemispheres_data_from_ERC_Starting_Grant_677697_BUNGEE-TOOLS_/24243835
     2) method https://github.com/acasamitjana/ERC_reconstruction
+    3) dataset: https://medical-epigenomics.org/papers/GBMatch/#data_downloads (WSI, MRI, methylation and clinical data)
        
 - 3D spatial transcriptomic
     1) data: https://www.bgiocean.com/vt3d_example/
