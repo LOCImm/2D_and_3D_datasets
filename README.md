@@ -12,6 +12,9 @@
 - 3D cell segmentation
    1) (CHAMMI dataset): https://zenodo.org/records/7988357
    2) method https://github.com/chaudatascience/channel_adaptive_models?tab=readme-ov-file
+
+- 3D neuronal networks from three-dimensional electron microscopy (3D-EM) 
+  1) Paper (dataset inside): https://www.nature.com/articles/s41592-024-02226-5
       
 - 3D different types of cells
    1) ovules: https://osf.io/uzq3w/
