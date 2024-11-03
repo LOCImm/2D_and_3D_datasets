@@ -15,6 +15,7 @@
 
 - 3D neuronal networks from three-dimensional electron microscopy (3D-EM) 
   1) Paper (dataset inside): https://www.nature.com/articles/s41592-024-02226-5
+  2) Paper (dataset inside): https://www.nature.com/articles/s41592-022-01711-z
       
 - 3D different types of cells
    1) ovules: https://osf.io/uzq3w/
