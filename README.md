@@ -5,6 +5,7 @@
 - HE datasets from the TCGA (HE) to be correlated with molecular data: https://portal.gdc.cancer.gov/
 - Ebrains datasets (more than 120 types of brain tumors with HE data): https://search.kg.ebrains.eu/instances/Dataset/8fc108ab-e2b4-406f-8999-60269dc1f994
 - GTEx HE and RNAseq: https://gtexportal.org/home/
+- Multi-modal cell segmentation dataset: https://neurips22-cellseg.grand-challenge.org/
 
 ## 3D datasets
 
