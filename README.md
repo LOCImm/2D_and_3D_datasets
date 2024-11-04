@@ -7,6 +7,16 @@
 - GTEx HE and RNAseq: https://gtexportal.org/home/
 - Multi-modal cell segmentation dataset: https://neurips22-cellseg.grand-challenge.org/
 
+## 2D and 3D microglia morphology
+- Paper with some ideas on different analyses to perform on microglia morphology: https://pure.rug.nl/ws/portalfiles/portal/783390917/Glia_-_2023_-_Weering.pdf
+- Cell motility and morphology evaluation method: https://www.molbiolcell.org/doi/10.1091/mbc.E21-11-0585#_i24 and https://www.eneuro.org/content/eneuro/11/7/ENEURO.0014-24.2024.full.pdf (method https://github.com/ciernialab/MicrogliaMorphology)
+  1) Dataset: https://osf.io/8t5c2/
+  2) In vivo SPIM and confocal images of microglia: https://www.ebi.ac.uk/biostudies/BioImages/studies/S-BIAD564?query=microglia
+  3) Comparative dynamics of microglialand glioma cell motility at the infiltrative margin of brain tumours: https://zenodo.org/records/4988966
+- Different 3D brain cells datasets: https://www.microns-explorer.org/cortical-mm3#segmentation-meshes
+- Multi-modal brain cells datasets: https://knowledge.brain-map.org/data?limit=50&offset=0&sort=species.name~ASC
+- 2D vs 3D mophology microglia analysis comparison: https://www.biorxiv.org/content/10.1101/2024.09.30.615842v1.full.pdf (data potentially available here https://www.biorxiv.org/content/10.1101/2023.08.28.555135v1.full or https://pubmed.ncbi.nlm.nih.gov/37689276/)
+
 ## 3D datasets
 
 - 3D cell segmentation
