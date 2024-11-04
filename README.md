@@ -9,6 +9,7 @@
 
 ## 2D and 3D microglia morphology
 - Paper with some ideas on different analyses to perform on microglia morphology: https://pure.rug.nl/ws/portalfiles/portal/783390917/Glia_-_2023_-_Weering.pdf
+- General review on the microglia morphology definition: https://pubmed.ncbi.nlm.nih.gov/36327895/
 - Cell motility and morphology evaluation method: https://www.molbiolcell.org/doi/10.1091/mbc.E21-11-0585#_i24 and https://www.eneuro.org/content/eneuro/11/7/ENEURO.0014-24.2024.full.pdf (method https://github.com/ciernialab/MicrogliaMorphology)
   1) Dataset: https://osf.io/8t5c2/
   2) In vivo SPIM and confocal images of microglia: https://www.ebi.ac.uk/biostudies/BioImages/studies/S-BIAD564?query=microglia
