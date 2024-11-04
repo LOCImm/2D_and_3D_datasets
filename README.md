@@ -23,6 +23,8 @@
 - 3D cell segmentation
    1) (CHAMMI dataset): https://zenodo.org/records/7988357
    2) method https://github.com/chaudatascience/channel_adaptive_models?tab=readme-ov-file
+ 
+- 3D vascular microenvironment landscape in human glioblastomahttps://pmc.ncbi.nlm.nih.gov/articles/PMC7879533/ (data potentially available)
 
 - 3D neuronal networks from three-dimensional electron microscopy (3D-EM) 
   1) Paper (dataset inside): https://www.nature.com/articles/s41592-024-02226-5
