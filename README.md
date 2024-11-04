@@ -27,6 +27,10 @@
 
 - 3D iDISCO+
   1) https://doi.org/10.17605/OSF.IO/39THQ
+
+- 3D atlas of the developing human head (70 Tb of images) iDISCO:
+  1) paper https://www.cell.com/cell/fulltext/S0092-8674(23)01230-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867423012308%3Fshowall%3Dtrue
+  2) data https://hudeca.com/
  
 - 3D vascular microenvironment landscape in human glioblastomahttps://pmc.ncbi.nlm.nih.gov/articles/PMC7879533/ (data potentially available)
 
