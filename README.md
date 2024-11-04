@@ -24,6 +24,9 @@
 - 3D cell segmentation
    1) (CHAMMI dataset): https://zenodo.org/records/7988357
    2) method https://github.com/chaudatascience/channel_adaptive_models?tab=readme-ov-file
+
+- 3D iDISCO+
+  1) https://doi.org/10.17605/OSF.IO/39THQ
  
 - 3D vascular microenvironment landscape in human glioblastomahttps://pmc.ncbi.nlm.nih.gov/articles/PMC7879533/ (data potentially available)
 
