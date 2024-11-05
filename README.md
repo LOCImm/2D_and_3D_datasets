@@ -43,6 +43,10 @@
    2) ATAS: https://www.repository.cam.ac.uk/handle/1810/262530
    3) Arabidopsis: https://osf.io/fzr56/
    4) using Cellstich https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05608-2
+
+- 3D vasculature analysis and visulization
+  1) paper https://github.com/Megumi4952/VesselVio?tab=readme-ov-file
+  2) method https://github.com/JacobBumgarner/VesselVio
       
 - 3D brain MRI + histology
     1) https://rdr.ucl.ac.uk/articles/dataset/Registered_histology_MRI_and_manual_annotations_of_over_300_brain_regions_in_5_human_hemispheres_data_from_ERC_Starting_Grant_677697_BUNGEE-TOOLS_/24243835
