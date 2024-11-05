@@ -7,7 +7,7 @@
 - GTEx HE and RNAseq: https://gtexportal.org/home/
 - Multi-modal cell segmentation dataset: https://neurips22-cellseg.grand-challenge.org/
 - LIVECell is a manually annotated and expert-validated dataset of 2D phase contrast images, consisting of over 1.6 million cells from a diverse set of cell morphologies and culture densities. It is also associated with some trained models: https://biii.eu/livecell
-- Neuvis Python library for brain cell visualization (2D and 3D) and direct access to several publicly available datasets: https://navis-org.github.io/navis/
+- Navis Python library for brain cell visualization (2D and 3D) and direct access to several publicly available datasets: https://navis-org.github.io/navis/
 
 ## 2D and 3D microglia morphology
 - Paper with some ideas on different analyses to perform on microglia morphology: https://pure.rug.nl/ws/portalfiles/portal/783390917/Glia_-_2023_-_Weering.pdf
